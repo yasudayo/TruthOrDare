@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    font-size: 1.5em;
+    width: 75%;
+    margin: 0 auto;
+}
+
+#panel {
+    width: 100px;
+    height: 120px;
+}
+
+.card {
+    width: 50px;
+    height: 60px;
+    line-height: 50px;
+    border: 1px solid rgb(47, 226, 31);
+    border-radius: 10px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    box-shadow: rgb(0, 34, 0) 2px 2px;
+    background: white;
+    font: left;
+}
+.back {
+    background-size: 50px 60px;
+}
+
+#mekuru {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-top: 100px;
+    border-radius: 8px;
+    background-color: red;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+    user-select: none;
+    box-sizing: 0px 5px 0px #bf0020;
+}
